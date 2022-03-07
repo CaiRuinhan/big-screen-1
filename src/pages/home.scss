@@ -155,6 +155,11 @@
     .案发时段 {
       height: px(363);
     }
+    .chart12 {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+    }
     .战果 {
       > table {
         margin-top: px(38);
